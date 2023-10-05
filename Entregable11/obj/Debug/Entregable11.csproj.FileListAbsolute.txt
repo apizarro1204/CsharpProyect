@@ -1,0 +1,17 @@
+C:\Users\sherk\source\repos\Entregable11\Entregable11\bin\Debug\Entregable11.exe.config
+C:\Users\sherk\source\repos\Entregable11\Entregable11\bin\Debug\Entregable11.exe
+C:\Users\sherk\source\repos\Entregable11\Entregable11\bin\Debug\Entregable11.pdb
+C:\Users\sherk\source\repos\Entregable11\Entregable11\obj\Debug\Entregable11.csproj.AssemblyReference.cache
+C:\Users\sherk\source\repos\Entregable11\Entregable11\obj\Debug\Entregable11.Properties.Resources.resources
+C:\Users\sherk\source\repos\Entregable11\Entregable11\obj\Debug\Entregable11.csproj.GenerateResource.cache
+C:\Users\sherk\source\repos\Entregable11\Entregable11\obj\Debug\Entregable11.csproj.CoreCompileInputs.cache
+C:\Users\sherk\source\repos\Entregable11\Entregable11\obj\Debug\Entregable11.exe
+C:\Users\sherk\source\repos\Entregable11\Entregable11\obj\Debug\Entregable11.pdb
+C:\Users\sherk\source\repos\Entregable11\Entregable11\bin\Debug\Database1.mdf
+C:\Users\sherk\source\repos\Entregable11\Entregable11\bin\Debug\Database1_log.ldf
+C:\Users\sherk\source\repos\Entregable11\Entregable11\bin\Debug\EntityFramework.dll
+C:\Users\sherk\source\repos\Entregable11\Entregable11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sherk\source\repos\Entregable11\Entregable11\bin\Debug\EntityFramework.xml
+C:\Users\sherk\source\repos\Entregable11\Entregable11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sherk\source\repos\Entregable11\Entregable11\obj\Debug\Entregable11.csproj.CopyComplete
+C:\Users\sherk\source\repos\Entregable11\Entregable11\obj\Debug\Entregable11.Migrations.InitialCreate.resources
